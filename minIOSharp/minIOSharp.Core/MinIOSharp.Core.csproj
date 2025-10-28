@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<Nullable>enable</Nullable>
+		<Title>MinIOSharpSharp.Core</Title>
+		<Version>1.0.0</Version>
+		<Authors>saeed ahmadi</Authors>
+		<Company>saeed ahmadi</Company>
+		<PackageId>MinIOSharpSharp.Core</PackageId>
+		<Product>MinIOSharpSharp.Core</Product>
+		<Description>Open Router service</Description>
+		<RepositoryUrl>https://github.com/saeedahmadi694/MinIOSharp</RepositoryUrl>
+	</PropertyGroup>
+
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.Http" Version="9.0.3" />
+		<PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+		<PackageReference Include="System.Text.Json" Version="9.0.2" />
+	</ItemGroup>
+
+
+</Project>

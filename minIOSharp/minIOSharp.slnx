@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="minIOSharp.AspNetCore/MinIOSharp.AspNetCore.csproj" />
+  <Project Path="minIOSharp.Core/MinIOSharp.Core.csproj" />
+</Solution>
