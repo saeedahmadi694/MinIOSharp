@@ -3,12 +3,12 @@
 	<PropertyGroup>
 		<TargetFramework>netstandard2.1</TargetFramework>
 		<Nullable>enable</Nullable>
-		<Title>MinIOSharpSharp.Core</Title>
+		<Title>MinIOSharp.Core</Title>
 		<Version>1.0.0</Version>
 		<Authors>saeed ahmadi</Authors>
 		<Company>saeed ahmadi</Company>
-		<PackageId>MinIOSharpSharp.Core</PackageId>
-		<Product>MinIOSharpSharp.Core</Product>
+		<PackageId>MinIOSharp.Core</PackageId>
+		<Product>MinIOSharp.Core</Product>
 		<Description>Open Router service</Description>
 		<RepositoryUrl>https://github.com/saeedahmadi694/MinIOSharp</RepositoryUrl>
 	</PropertyGroup>
