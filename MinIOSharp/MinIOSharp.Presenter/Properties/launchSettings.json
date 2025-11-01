@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MinIOSharp.Presenter": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}

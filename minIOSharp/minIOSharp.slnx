@@ -1,4 +1,5 @@
 <Solution>
-  <Project Path="minIOSharp.AspNetCore/MinIOSharp.AspNetCore.csproj" />
-  <Project Path="minIOSharp.Core/MinIOSharp.Core.csproj" />
+  <Project Path="MinIOSharp.AspNetCore/MinIOSharp.AspNetCore.csproj" />
+  <Project Path="MinIOSharp.Core/MinIOSharp.Core.csproj" />
+  <Project Path="MinIOSharp.Presenter/MinIOSharp.Presenter.csproj" Id="cd706fd3-05c9-4592-be23-cad21bbbc9ed" />
 </Solution>

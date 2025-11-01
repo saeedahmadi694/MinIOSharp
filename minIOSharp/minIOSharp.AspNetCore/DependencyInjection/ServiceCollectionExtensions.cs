@@ -42,7 +42,7 @@ public static class ServiceCollectionExtensions
         services.Configure(name, configure);
         services.TryAddSingleton<IMinioClientFactory, MinioClientFactory>();
         services.TryAddSingleton<IBlobNamingNormalizer, MinioBlobNamingNormalizer>();
-        services.TryAddSingleton((IServiceProvider sp) => sp.GetRequiredService<IMinioClientFactory>().CreateClient(name));
+        services.TryAddSingleton((IServiceProvider sp) => sp.GetRequiredService<IMinioClientFactory>().CreateClient());
         services.TryAddSingleton<IMinIOService, MinIOService>();
         return services;
     }
